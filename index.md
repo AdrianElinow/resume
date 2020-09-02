@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# ADRIAN ELINOW #
+_adrian@codedevl.com_ 
+_West Chester (PA)_ 
 
-You can use the [editor on GitHub](https://github.com/AdrianElinow/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## PROFILE ##
+  Computer Science Student with 7+ years experience combined, personal and academic projects. Multiple Student Organization Officerships. Fast, adaptive, and passionate learner with extensive personal experience. 
+ 
+## WORK EXPERIENCE ##
+ 1. Web Design Consultant (Short Term) Shocker Media — 2019 Web Design consulting, UX/UI design, Database integration design, and Prototyping for local media group. 
 
-### Markdown
+ - Used PHP, SQL, Wordpress, HTML/CSS/Javascript 
+ - Relevant Media Link: https://drive.google.com/drive/folders/1E4856vifJagooPYhebhCRDPnMxNWqA23?usp=sharing 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 2. Network Architect (Short-Term) Fledgling Bitcoin Mine — 2015 Organized GPU mining clusters into addressable subnets to dynamically reallocate cluster resources to mine most profitable cryptocurrency. 
+- Used Python, Linux, Cryptocurrency Mining API 
 
-```markdown
-Syntax highlighted code block
+ 3. Club Secretary (Multiple Academic Clubs) 
+    - WCU Computer Science Club — (2020-Present) WCU Competitive Programming Club — (2019-Present) 
 
-# Header 1
-## Header 2
-### Header 3
+## PERSONAL PROJECTS ##
+_Bitbucket — https://bitbucket.org/adrianelinow/_
+  1. Fencing Score Box Working prototype for Olympic Fencing score box. Hardware and Software implementations. Designed and built for WCU Fencing club. 
+  - Used Arduino IDE C,C++, Microelectronics. 
+  - Relevant Media Link: https://bitbucket.org/adrianelinow/fencing-scorebox/ 
 
-- Bulleted
-- List
+## EDUCATION ##
+West Chester University of Pennsylvania 
+Bachelor’s Degree in Computer Science, 2022 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdrianElinow/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## SKILLS ##
+Python • Java • C++ • SQL • Unix Environments • Regular Expressions • 
